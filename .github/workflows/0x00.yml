@@ -37,6 +37,7 @@ jobs:
           sparse-checkout: |
             /*
             !/dl/
+            !/apks/
 
       - name: Fast Setup (Python Only)
         run: |
