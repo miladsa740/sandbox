@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-10 15:36 IR
+- 📱 [WhiteDNS-1.0.0-universal.apk](https://github.com/miladsa740/sandbox/raw/main/dl/WhiteDNS-1.0.0-universal.apk) `16.2MB`
+
+---
+
+
 ### 📅 2026-05-10 07:04 IR
 - 📥 [index.html](https://github.com/miladsa740/sandbox/raw/main/dl/index.html) `31KB`
 
